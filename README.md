@@ -3,7 +3,7 @@ Vue-Todo
 
 一个用vue结合Webpack开发的单页面工具应用，实现了类似于记事本，简单的记录待办事项，管理，筛选待办事务，删除已完成事务的功能
 
-![运行截图](./showimg/todoimg.png)
+![运行截图](https://gitee.com/leigangblog/images/raw/master/static/20200607144710.png)
 
 开发技能
 ------
